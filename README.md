@@ -55,3 +55,6 @@ To make the rover completely untethered, I programmed the ESP32 to launch its ow
 ### Day 5: ESP32-CAM Video Streaming Optimization & Final Deployment
 For the vision system, I configured an AI-Thinker ESP32-CAM module utilizing external PSRAM (`CAMERA_FB_IN_PSRAM`) and double-buffering (`fb_count = 2`) to maximize frame rates. I set up an embedded HTTP server routine (`esp_http_server.h`) to stream high-quality `FRAMESIZE_SVGA` (800x600) MJPEG video over port 80. After resolving flash boot configurations (grounding `GPIO 0` during upload) and mapping serial ports, I successfully deployed the firmware.
 <img width="1280" height="960" alt="photo_2026-10-27_15-56-54" src="https://github.com/user-attachments/assets/46a2da49-2b73-47c0-a657-8ef005f47a2b" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/0629d854-8ba9-4ae5-9f70-cc57fa3b6c38" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/062bb9cf-9d96-4bda-978a-352ed8663f98" />
+
