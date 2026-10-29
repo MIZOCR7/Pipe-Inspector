@@ -276,3 +276,5 @@ There is still room to improve reliability and add more autonomous behavior, but
 ---
 
 **Note:** This README describes the hardware and configuration used in the project. To reproduce the build, the firmware source files, actual stream URL, and any board-specific configuration should be included in the repository.
+
+<img width="1280" height="960" alt="photo_2026-10-27_15-56-54" src="https://github.com/user-attachments/assets/aec83fa5-1703-4788-b75a-feaa7ca37541" />
