@@ -66,4 +66,11 @@ Flashing the ESP32-CAM can sometimes be tricky. I had the issue of "No serial da
 * **Total time taken:** 6 hours.
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ba98c6bf-f57b-4ec2-b937-8950cb443f47" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/efae58ea-5208-4d30-b54e-1a45c2818fe6" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/846e6d0f-cb50-4871-95bb-31c3c23c5223" />
+<img width="562" height="522" alt="image" src="https://github.com/user-attachments/assets/15d23b74-66fd-476e-9c62-a52d2e500136" />
+<img width="559" height="499" alt="image" src="https://github.com/user-attachments/assets/09e9a4c7-2c4f-41c6-9452-9806dd05907f" />
+<img width="706" height="407" alt="image" src="https://github.com/user-attachments/assets/b60bc993-6abd-470b-99e7-93f55667b3ef" />
+<img width="462" height="582" alt="image" src="https://github.com/user-attachments/assets/c822d5a8-456f-4cc9-b4cd-6ffdf87677b8" />
+<img width="698" height="471" alt="image" src="https://github.com/user-attachments/assets/7126190c-f38e-4419-8409-6812944ffee6" />
 <img width="1280" height="960" alt="photo_2026-10-27_15-56-54" src="https://github.com/user-attachments/assets/847fb425-79dc-4ea6-92cd-0c29e64ce854" />
