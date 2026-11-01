@@ -36,7 +36,7 @@ Next I connected the motor driver to the ESP32. I connected the following connec
 - Left Motor In1/In2 – `GPIO25` and `GPIO26`
 I then created the following functions in arduino C++. (Move Forward, Move Backward, Turn Left, Turn Right, Stop Robot). This was very exciting to test and all 6 motors moved in the direction I wanted.
 * **Key Milestone:** Connected the motor driver and created basic movement code.
-* **Total time taken:** 4 hours.
+* **Total time taken:** 3 hours.
 
 ---
 
@@ -54,7 +54,7 @@ I wanted my rover to be completely wireless so I created a Wi-Fi Access Point on
 
 I created a responsive web interface using HTML, CSS and JavaScript. This was all stored in PROGMEM on the ESP32. I added a live counter for distance. This used asynchronous JavaScript to continuously poll the sensor every 500ms. I also added a responsive control panel and buttons to adjust the pan and tilt of the camera.
 * **Key Milestone:** Created a self hosted Wi-Fi access point. Added web interface to control with.
-* **Total time taken:** 7 hours.
+* **Total time taken:** 5 hours.
 
 ---
 
